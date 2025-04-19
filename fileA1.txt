@@ -1,0 +1,8 @@
+Type: AWS::EC2::LaunchTemplate
+Properties:
+  LaunchTemplateData: 
+    LaunchTemplateData
+  LaunchTemplateName: String
+  TagSpecifications: 
+    - LaunchTemplateTagSpecification
+  VersionDescription: String
